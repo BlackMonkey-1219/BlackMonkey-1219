@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlackMonkey-1219(Allen)
 - 👀 I’m interested in Gaming, Business, Programming, Problem Solving and... Being Alone.
-- 🌱 I’m currently learning React, Node, Express, Next, JS, MongoDB
+- 🌱 I’m currently learning Flutter, Kali Linux, GraphQL, Tailwind.
 - 💞️ I’m looking to collaborate on Full Stack Projects.
 - 📫 How to reach me bl4ckm0nk3yb4n4n4@gmail.com
 
